@@ -1,0 +1,933 @@
+[01:16:11] [DEBUG] Created script domain 'ScriptDomain_CEAEAD26'.
+[01:16:11] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_CEAEAD26' ...
+[01:16:11] [ERROR] Failed to reload scripts because directory is missing.
+[01:26:25] [DEBUG] Created script domain 'ScriptDomain_8ED3F3B4'.
+[01:26:25] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_8ED3F3B4' ...
+[01:26:25] [ERROR] Failed to reload scripts because directory is missing.
+[01:59:55] [DEBUG] Created script domain 'ScriptDomain_47AEC6C5'.
+[01:59:55] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_47AEC6C5' ...
+[01:59:55] [ERROR] Failed to reload scripts because directory is missing.
+[02:38:50] [DEBUG] Created script domain 'ScriptDomain_F096175E'.
+[02:38:50] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_F096175E' ...
+[02:38:50] [ERROR] Failed to reload scripts because directory is missing.
+[03:09:30] [DEBUG] Created script domain 'ScriptDomain_DF3E8248'.
+[03:09:30] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_DF3E8248' ...
+[03:09:30] [ERROR] Failed to reload scripts because directory is missing.
+[03:14:43] [DEBUG] Created script domain 'ScriptDomain_C335F0ED'.
+[03:14:43] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_C335F0ED' ...
+[03:14:43] [ERROR] Failed to reload scripts because directory is missing.
+[04:57:47] [DEBUG] Created script domain 'ScriptDomain_209EFDB1'.
+[04:57:47] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_209EFDB1' ...
+[04:57:47] [ERROR] Failed to reload scripts because directory is missing.
+[05:18:39] [DEBUG] Created script domain 'ScriptDomain_F1C5981A'.
+[05:18:39] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_F1C5981A' ...
+[05:18:39] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[05:18:39] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[05:18:39] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[05:18:39] [DEBUG] Starting 3 script(s) ...
+[05:18:39] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_F1C5981A' ...
+[05:18:39] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[05:18:39] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_F1C5981A' ...
+[05:18:39] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[05:18:39] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_F1C5981A' ...
+[05:18:39] [DEBUG] Started script 'Stance.Main'.
+[05:25:39] [DEBUG] Created script domain 'ScriptDomain_4C8F245E'.
+[05:25:39] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_4C8F245E' ...
+[05:25:39] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[05:25:39] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[05:25:39] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[05:25:39] [DEBUG] Starting 3 script(s) ...
+[05:25:39] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_4C8F245E' ...
+[05:25:39] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[05:25:39] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_4C8F245E' ...
+[05:25:39] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[05:25:39] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_4C8F245E' ...
+[05:25:39] [DEBUG] Started script 'Stance.Main'.
+[05:30:00] [DEBUG] Created script domain 'ScriptDomain_EA81C951'.
+[05:30:00] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_EA81C951' ...
+[05:30:00] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[05:30:00] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[05:30:00] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[05:30:00] [DEBUG] Starting 3 script(s) ...
+[05:30:00] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_EA81C951' ...
+[05:30:00] [DEBUG] Started script 'Wheelies'.
+[05:30:00] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_EA81C951' ...
+[05:30:00] [DEBUG] Started script 'Stance.StanceSettings'.
+[05:30:00] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_EA81C951' ...
+[05:30:00] [DEBUG] Started script 'Stance.Main'.
+[05:30:00] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[05:54:45] [DEBUG] Created script domain 'ScriptDomain_6F5EEB19'.
+[05:54:45] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_6F5EEB19' ...
+[05:54:45] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[05:54:45] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[05:54:45] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[05:54:45] [DEBUG] Starting 3 script(s) ...
+[05:54:45] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_6F5EEB19' ...
+[05:54:45] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[05:54:46] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_6F5EEB19' ...
+[05:54:46] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[05:54:46] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_6F5EEB19' ...
+[05:54:46] [DEBUG] Started script 'Stance.Main'.
+[05:57:34] [DEBUG] Created script domain 'ScriptDomain_E828D94C'.
+[05:57:34] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_E828D94C' ...
+[05:57:34] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[05:57:34] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[05:57:34] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[05:57:34] [DEBUG] Starting 3 script(s) ...
+[05:57:34] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_E828D94C' ...
+[05:57:34] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[05:57:34] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_E828D94C' ...
+[05:57:34] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[05:57:34] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_E828D94C' ...
+[05:57:34] [DEBUG] Started script 'Stance.Main'.
+[06:00:05] [DEBUG] Created script domain 'ScriptDomain_A2B98E14'.
+[06:00:05] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_A2B98E14' ...
+[06:00:06] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[06:00:06] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[06:00:06] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[06:00:06] [DEBUG] Starting 3 script(s) ...
+[06:00:06] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_A2B98E14' ...
+[06:00:06] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[06:00:06] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_A2B98E14' ...
+[06:00:06] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[06:00:06] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_A2B98E14' ...
+[06:00:06] [DEBUG] Started script 'Stance.Main'.
+[06:04:17] [DEBUG] Created script domain 'ScriptDomain_1C2372C8'.
+[06:04:17] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_1C2372C8' ...
+[06:04:17] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[06:04:17] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[06:04:17] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[06:04:17] [DEBUG] Starting 3 script(s) ...
+[06:04:17] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_1C2372C8' ...
+[06:04:17] [DEBUG] Started script 'Wheelies'.
+[06:04:17] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_1C2372C8' ...
+[06:04:17] [DEBUG] Started script 'Stance.StanceSettings'.
+[06:04:17] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_1C2372C8' ...
+[06:04:17] [DEBUG] Started script 'Stance.Main'.
+[06:04:17] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[06:21:16] [DEBUG] Created script domain 'ScriptDomain_116DAF0A'.
+[06:21:16] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_116DAF0A' ...
+[06:21:16] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[06:21:16] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[06:21:16] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[06:21:16] [DEBUG] Starting 3 script(s) ...
+[06:21:16] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_116DAF0A' ...
+[06:21:16] [DEBUG] Started script 'Wheelies'.
+[06:21:16] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_116DAF0A' ...
+[06:21:16] [DEBUG] Started script 'Stance.StanceSettings'.
+[06:21:16] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_116DAF0A' ...
+[06:21:16] [DEBUG] Started script 'Stance.Main'.
+[06:21:16] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[06:45:25] [DEBUG] Created script domain 'ScriptDomain_75EA9DB0'.
+[06:45:25] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_75EA9DB0' ...
+[06:45:25] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[06:45:25] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[06:45:25] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[06:45:25] [DEBUG] Starting 3 script(s) ...
+[06:45:25] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_75EA9DB0' ...
+[06:45:25] [DEBUG] Started script 'Wheelies'.
+[06:45:25] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_75EA9DB0' ...
+[06:45:25] [DEBUG] Started script 'Stance.StanceSettings'.
+[06:45:25] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_75EA9DB0' ...
+[06:45:25] [DEBUG] Started script 'Stance.Main'.
+[06:46:36] [DEBUG] Created script domain 'ScriptDomain_6425BD9C'.
+[06:46:36] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_6425BD9C' ...
+[06:46:36] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[06:46:36] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[06:46:36] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[06:46:36] [DEBUG] Starting 3 script(s) ...
+[06:46:36] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_6425BD9C' ...
+[06:46:36] [DEBUG] Started script 'Wheelies'.
+[06:46:36] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_6425BD9C' ...
+[06:46:36] [DEBUG] Started script 'Stance.StanceSettings'.
+[06:46:36] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_6425BD9C' ...
+[06:46:36] [DEBUG] Started script 'Stance.Main'.
+[06:46:36] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:17:05] [DEBUG] Created script domain 'ScriptDomain_B727E5B6'.
+[07:17:05] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_B727E5B6' ...
+[07:17:06] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:17:06] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:17:06] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:17:06] [DEBUG] Starting 3 script(s) ...
+[07:17:06] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_B727E5B6' ...
+[07:17:06] [DEBUG] Started script 'Wheelies'.
+[07:17:06] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_B727E5B6' ...
+[07:17:06] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:17:06] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_B727E5B6' ...
+[07:17:06] [DEBUG] Started script 'Stance.Main'.
+[07:17:06] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:17:51] [DEBUG] Created script domain 'ScriptDomain_45FF2F21'.
+[07:17:51] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_45FF2F21' ...
+[07:17:51] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:17:51] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:17:51] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:17:51] [DEBUG] Starting 3 script(s) ...
+[07:17:51] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_45FF2F21' ...
+[07:17:51] [DEBUG] Started script 'Wheelies'.
+[07:17:51] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_45FF2F21' ...
+[07:17:51] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:17:51] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_45FF2F21' ...
+[07:17:51] [DEBUG] Started script 'Stance.Main'.
+[07:19:34] [DEBUG] Created script domain 'ScriptDomain_511B6D87'.
+[07:19:34] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_511B6D87' ...
+[07:19:34] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:19:34] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:19:34] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:19:34] [DEBUG] Starting 3 script(s) ...
+[07:19:34] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_511B6D87' ...
+[07:19:34] [DEBUG] Started script 'Wheelies'.
+[07:19:34] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_511B6D87' ...
+[07:19:34] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:19:34] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_511B6D87' ...
+[07:19:34] [DEBUG] Started script 'Stance.Main'.
+[07:19:34] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:23:50] [DEBUG] Created script domain 'ScriptDomain_A954FF1'.
+[07:23:50] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_A954FF1' ...
+[07:23:50] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:23:50] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:23:50] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:23:50] [DEBUG] Starting 3 script(s) ...
+[07:23:51] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_A954FF1' ...
+[07:23:51] [DEBUG] Started script 'Wheelies'.
+[07:23:51] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_A954FF1' ...
+[07:23:51] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:23:51] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_A954FF1' ...
+[07:23:51] [DEBUG] Started script 'Stance.Main'.
+[07:23:51] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:27:03] [DEBUG] Created script domain 'ScriptDomain_72B3375E'.
+[07:27:03] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_72B3375E' ...
+[07:27:03] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:27:03] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:27:03] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:27:03] [DEBUG] Starting 3 script(s) ...
+[07:27:03] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_72B3375E' ...
+[07:27:03] [DEBUG] Started script 'Wheelies'.
+[07:27:03] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_72B3375E' ...
+[07:27:03] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:27:03] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_72B3375E' ...
+[07:27:03] [DEBUG] Started script 'Stance.Main'.
+[07:27:03] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:29:13] [DEBUG] Created script domain 'ScriptDomain_C01533F6'.
+[07:29:13] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_C01533F6' ...
+[07:29:14] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:29:14] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:29:14] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:29:14] [DEBUG] Starting 3 script(s) ...
+[07:29:14] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_C01533F6' ...
+[07:29:14] [DEBUG] Started script 'Wheelies'.
+[07:29:14] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_C01533F6' ...
+[07:29:14] [DEBUG] Started script 'Stance.StanceSettings'.
+[07:29:14] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_C01533F6' ...
+[07:29:14] [DEBUG] Started script 'Stance.Main'.
+[07:29:14] [ERROR] Caught fatal unhandled exception:
+System.MissingMethodException: Method not found: 'Void GTA.Game.DisableControlThisFrame(Int32, GTA.Control)'.
+   at Stance.Main.DisableControls()
+   at Stance.Main.OnTick(Object sender, EventArgs e)
+   at GTA.Script.raise_Tick(Object value0, EventArgs value1)
+   at GTA.Script.MainLoop()
+[07:38:44] [DEBUG] Created script domain 'ScriptDomain_2C5C493C'.
+[07:38:44] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_2C5C493C' ...
+[07:38:45] [ERROR] Failed to compile 'TwoWheelDriving.cs' with 34 error(s):
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 114: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 114: The name 'VehicleClass' does not exist in the current context
+   at line 122: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 122: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 133: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 133: The name 'VehicleClass' does not exist in the current context
+   at line 141: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 141: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 197: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 197: The name 'VehicleClass' does not exist in the current context
+   at line 236: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 236: The name 'VehicleClass' does not exist in the current context
+   at line 276: 'GTA.Vehicle' does not contain a definition for 'ClassType' and no extension method 'ClassType' accepting a first argument of type 'GTA.Vehicle' could be found (are you missing a using directive or an assembly reference?)
+   at line 276: The name 'VehicleClass' does not exist in the current context
+[07:38:45] [DEBUG] Found 1 script(s) in 'BurnoutWheelie.dll'.
+[07:38:45] [DEBUG] Found 2 script(s) in 'Stance.dll'.
+[07:38:45] [DEBUG] Starting 3 script(s) ...
+[07:38:45] [DEBUG] Instantiating script 'Wheelies' in script domain 'ScriptDomain_2C5C493C' ...
+[07:38:45] [ERROR] Failed to instantiate script 'Wheelies' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wheelies.LoadSettings()
+[07:38:45] [DEBUG] Instantiating script 'Stance.StanceSettings' in script domain 'ScriptDomain_2C5C493C' ...
+[07:38:45] [ERROR] Failed to instantiate script 'Stance.StanceSettings' because constructor threw an exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Stance.StanceSettings..ctor()
+[07:38:45] [DEBUG] Instantiating script 'Stance.Main' in script domain 'ScriptDomain_2C5C493C' ...
+[07:38:45] [DEBUG] Started script 'Stance.Main'.
+[08:04:48] [DEBUG] Created script domain 'ScriptDomain_640D0807'.
+[08:04:48] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_640D0807' ...
+[19:48:18] [DEBUG] Created script domain 'ScriptDomain_B87519B6'.
+[19:48:18] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_B87519B6' ...
+[20:10:25] [DEBUG] Created script domain 'ScriptDomain_70BAA8DA'.
+[20:10:25] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_70BAA8DA' ...
+[20:17:11] [DEBUG] Created script domain 'ScriptDomain_FE55BDCC'.
+[20:17:11] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_FE55BDCC' ...
+[20:21:38] [DEBUG] Created script domain 'ScriptDomain_B49F084D'.
+[20:21:38] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_B49F084D' ...
+[20:23:42] [DEBUG] Created script domain 'ScriptDomain_7AC4DE48'.
+[20:23:42] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_7AC4DE48' ...
+[20:28:56] [DEBUG] Created script domain 'ScriptDomain_4E9CB2CE'.
+[20:28:56] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_4E9CB2CE' ...
+[20:39:15] [DEBUG] Created script domain 'ScriptDomain_4495A605'.
+[20:39:15] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_4495A605' ...
+[20:42:34] [DEBUG] Created script domain 'ScriptDomain_F49C9DDE'.
+[20:42:34] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_F49C9DDE' ...
+[20:48:27] [DEBUG] Created script domain 'ScriptDomain_BEC59EDB'.
+[20:48:27] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_BEC59EDB' ...
+[20:54:34] [DEBUG] Created script domain 'ScriptDomain_4590FE6B'.
+[20:54:34] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_4590FE6B' ...
+[20:56:45] [DEBUG] Created script domain 'ScriptDomain_A3DE028E'.
+[20:56:45] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_A3DE028E' ...
+[21:22:44] [DEBUG] Created script domain 'ScriptDomain_4E61C1D6'.
+[21:22:44] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_4E61C1D6' ...
+[21:29:29] [DEBUG] Created script domain 'ScriptDomain_80659B9B'.
+[21:29:29] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_80659B9B' ...
+[21:48:06] [DEBUG] Created script domain 'ScriptDomain_335EAB91'.
+[21:48:06] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_335EAB91' ...
+[22:23:52] [DEBUG] Created script domain 'ScriptDomain_5F4F8DC4'.
+[22:23:52] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_5F4F8DC4' ...
+[22:32:20] [DEBUG] Created script domain 'ScriptDomain_D95F7DC9'.
+[22:32:20] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_D95F7DC9' ...
+[22:35:26] [DEBUG] Created script domain 'ScriptDomain_C3B2223A'.
+[22:35:27] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_C3B2223A' ...
+[22:49:25] [DEBUG] Created script domain 'ScriptDomain_96046445'.
+[22:49:25] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_96046445' ...
+[22:57:52] [DEBUG] Created script domain 'ScriptDomain_B7FD23D8'.
+[22:57:52] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_B7FD23D8' ...
+[23:02:38] [DEBUG] Created script domain 'ScriptDomain_FC07E41'.
+[23:02:38] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_FC07E41' ...
+[23:08:00] [DEBUG] Created script domain 'ScriptDomain_661B8C8A'.
+[23:08:00] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_661B8C8A' ...
+[23:09:47] [DEBUG] Created script domain 'ScriptDomain_E9EC2859'.
+[23:09:47] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_E9EC2859' ...
+[23:15:17] [DEBUG] Created script domain 'ScriptDomain_FEEEDAD3'.
+[23:15:17] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_FEEEDAD3' ...
+[23:24:53] [DEBUG] Created script domain 'ScriptDomain_2F02FFC4'.
+[23:24:53] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_2F02FFC4' ...
+[23:29:08] [DEBUG] Created script domain 'ScriptDomain_24425DD0'.
+[23:29:08] [DEBUG] Loading scripts from 'E:\Downloads\Multifive\plugins\scripts' into script domain 'ScriptDomain_24425DD0' ...
